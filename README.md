@@ -1,4 +1,4 @@
-![Sales Dashboard](sales_dashboard_preview.png)
+<img width="884" height="502" alt="sales_dashboard_preview" src="https://github.com/user-attachments/assets/433ac7bc-d1e2-4e8a-b94f-b51555c474fc" />
 
 # Sales Analysis Dashboard (Excel & Power BI)
 Sales performance analysis using Excel and Power BI
